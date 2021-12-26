@@ -1,7 +1,7 @@
 ### Olá! Sou o Mauricio Lederer 👋
 
 - 🔭 Atualmente eu trabalho com PHP/MySQL
-- 🌱 Estou apendendo Phyton
+- 🌱 Estou aprendendo Phyton
 - 🤔 Estou procurando ajuda com Bootstrap 5
 - 😄 Pronomes: ele/dele
 
