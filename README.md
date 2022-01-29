@@ -1,6 +1,6 @@
 ### Olá! Sou o Mauricio Lederer 👋
 
-- 🔭 Atualmente eu trabalho com PHP/MySQL
+- 🔭 Atualmente eu trabalho com PHP/MySQL/JavaScript
 - 🌱 Estou aprendendo Phyton
 - 🤔 Estou procurando ajuda com Bootstrap 5
 - 😄 Pronomes: ele/dele
